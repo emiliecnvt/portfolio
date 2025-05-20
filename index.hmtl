@@ -1,0 +1,50 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Emilie CHANAVAT - Développeuse Logiciel Embarquée</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Bonjour, je suis Emilie Chanavat</h1>
+    <p>Développeuse embarquée passionnée par le C, STM32 et les systèmes temps réel.</p>
+  </header>
+
+  <section id="projects">
+    <h2>🧪 Projets</h2>
+
+    <div class="project">
+      <h3>📡 Benchmark Risc-V vs ARM STM32</h3>
+      <p>Comparaison des langages d instructions ARM et RISC-V sur différents critères (rapidité d execution,consommation,occupation mémoire,...).</p>
+    </div>
+
+    <div class="project">
+      <h3>🔧 Secure Boot sur iMX93 </h3>
+      <p>Démarage sécurisé sur iMX93 - Cybersécurité -Bootloader - Yocto - Clé de chiffrement.</p>
+    </div>
+  </section>
+
+  <section id="about">
+    <h2>👩‍💻 À propos</h2>
+    <p>Je suis spécialisée en développement embarqué : C/C++, systèmes temps réel, protocoles bas niveau, débogage sur cible...</p>
+    <ul>
+      <li>🛠️ STM32, ESP32, Arduino</li>
+      <li>💾 UART, SPI, I2C, CAN</li>
+      <li>⚙️ FreeRTOS, Zephyr, STM32CubeIDE</li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>📬 Contact</h2>
+    <p>Email : <a href="mailto:em.chanavat@gamil.com">em.chanavat@gmail.com</a></p>
+    <p>LinkedIn : <a href="https://linkedin.com/in/emiliechanavat" target="_blank">@emiliechanavat</a></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 - Emilie Chanavat</p>
+  </footer>
+</body>
+</html>
